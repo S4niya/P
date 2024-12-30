@@ -1,0 +1,103 @@
+pwd
+mkdir
+git config --global user.name"S4niya"
+git config --global user.email"saniya100820@gamil.com"
+git init
+touch file.txt
+notepad file.txt
+git add file.txt
+git commit -m"this"
+git status
+git log
+
+
+2nd
+till git init same
+git checkout master 
+git checkout -b feature-branch
+touch
+notepad
+git add
+git commit
+git status
+git checkout master
+git merge -b feature-branch 
+git log
+
+
+3rd
+git config
+git config
+git init
+git checkout master
+touch
+natepad
+git add
+git stash save "commit this"
+git stash list
+git checkout -b feature-branch
+git stash apply
+
+
+4th
+pwd
+mkdir
+cd
+clone"paste git hub"
+
+
+5th
+pwd
+mkdir
+cd
+git config
+git config
+git init
+touch
+notepad
+git add
+git commit
+git status
+git remote add origin"paste git hub"
+git fetch origin
+git rebase\main origin
+git push origin feature-branch
+
+
+
+
+ 6th 
+same as scoend program
+in the last
+git merge  feature-branch -m"vhasyugu"
+
+
+7th
+git log
+git log tag v1.0 "commit msg"
+git log
+
+8th
+git log --oneline
+git checkout master
+git cherry-pick"commit id"
+
+9th
+git show"commit id"
+
+10th
+git log --author= "user name"--since="12-9-2024"--unti=14-10-2024"
+
+11th
+git log -n2
+
+12th
+git revert"commit id"
+git log
+git --hard"new commit id"
+git log
+
+
+
+
+
